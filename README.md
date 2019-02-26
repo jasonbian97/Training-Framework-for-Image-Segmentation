@@ -1,4 +1,4 @@
-#Training-Framework-for-Image-Segmentation
+# Training-Framework-for-Image-Segmentation
 The file architecture is described below:
 
 - Template.py
