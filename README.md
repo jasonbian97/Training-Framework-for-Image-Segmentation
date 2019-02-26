@@ -1,3 +1,4 @@
+#Training-Framework-for-Image-Segmentation
 The file architecture is described below:
 
 - Template.py
@@ -15,3 +16,7 @@ The file architecture is described below:
 - Data_vis.py
 
   Simple visualize work for show mask and image in one figure.
+  
+- dice_loss.py
+  
+  compute dice coefficient to evaluate model.
